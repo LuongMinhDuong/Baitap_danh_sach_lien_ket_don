@@ -5,12 +5,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
-/**
- * LinkedList
- * @author LAPTOP KIM ANH
- *
- */
-
 public class MainApp {
 
 	public static void main(String[] args) {
